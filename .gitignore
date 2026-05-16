@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+static/cards/*.html
+.adk_env/
+node_modules/
+dist/
+build/
+.uv/
